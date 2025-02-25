@@ -1,2 +1,3 @@
+¡Hola JavaScript y Python!
 ¡Hola JavaScript!
 Estamos aprendiendo Git
